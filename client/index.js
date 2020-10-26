@@ -3,7 +3,6 @@ import ReactDOM from "react-dom";
 import { BrowserRouter as Router } from "react-router-dom";
 import { Route } from "react-router-dom";
 import "./components/stylesheets/main.css";
-import "./components/stylesheets/custom.css";
 
 import Main from "./components/Main";
 

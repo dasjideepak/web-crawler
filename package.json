@@ -18,9 +18,13 @@
     "helmet": "^3.23.3",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
+    "puppeteer": "^5.4.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-router-dom": "^5.2.0"
+    "react-icons": "^3.11.0",
+    "react-loader-spinner": "^3.1.14",
+    "react-router-dom": "^5.2.0",
+    "uuid": "^8.3.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
