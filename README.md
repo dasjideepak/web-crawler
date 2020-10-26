@@ -1,15 +1,10 @@
 ## <h1>Welcome to Credilio Assignment 👋
 
-<h2>How to get started with project?</h>
+## How to get started with project?
 
-<ul>
-<li>Clone it using 'git clone https://github.com/dasjideepak/credilio-assignment.git'
-</li>
-<li>Then install all the dependencies using 'npm i' or 'npm install'
-</li>
-<li>Then start the development server using 'npm start'.
-</li>
-</ul>
+- Clone it using 'git clone https://github.com/dasjideepak/credilio-assignment.git'
+- Then install all the dependencies using 'npm i' or 'npm install'
+- Then start the development server using 'npm start'.
 
 ## Routes
 
