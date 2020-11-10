@@ -1,4 +1,4 @@
-## <h1>Welcome to Credilio Assignment 👋
+## <h1>Welcome to Web-Crawler 👋
 
 The main aim of this application is to scrap data from IMDB website, store it in a JSON file on the server side and display data to our client which is build using React web framework.
 
