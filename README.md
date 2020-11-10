@@ -1,5 +1,7 @@
 ## <h1>Welcome to Credilio Assignment 👋
 
+The main aim of this application is to scrap data from IMDB website, store it in a JSON file on the server side and display data to our client which is build using React web framework.
+
 ## How to get started with project?
 
 - Clone it using 'git clone https://github.com/dasjideepak/credilio-assignment.git'
